@@ -80,7 +80,7 @@ class _mainItemsState extends State<mainItems> {
         ),
         Center(
           child: Text(
-            'refansyach.065119226@unpak.ac.id',
+            'refansyach.065119226@confidential.com',
             style: TextStyle(color: Colors.grey),
           ),
         ),

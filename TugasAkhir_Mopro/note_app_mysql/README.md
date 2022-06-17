@@ -1,16 +1,12 @@
-# note_app_mysql
+# Tugas Akhir Mata Kuliah Mobile Programming
 
-A new Flutter project.
+## Aplikasi dibuat: Sticky Notes yang teringegrasi dengan lokal database
+### Bahasa digunakan : Dart (Flutter framework) dan PHP (Untuk eksekusi database mysql)
 
-## Getting Started
+## Kelompok 14
+Anggota :
+  - Ahmad Soleh Edon    (065119200)
+  - Putri Witia Ayu A.  (065119224)
+  - M. Refansyach S.    (065119226
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Aplikasi hanya bisa dijalankan pada mobile environment
